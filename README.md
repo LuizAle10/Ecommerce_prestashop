@@ -1,2 +1,2 @@
-# ecommerce_prestashop-EvidenciaLogin
+# ecommerce_prestashop
 Automatizando site de ecommerce
